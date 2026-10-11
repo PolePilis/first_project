@@ -1,4 +1,2 @@
 # first\_project
 
-yes
-
